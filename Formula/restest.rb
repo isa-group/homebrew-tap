@@ -7,8 +7,8 @@
 class Restest < Formula
   desc "Black-box tests for REST APIs, from their OpenAPI document"
   homepage "https://github.com/isa-group/RESTest"
-  url "https://github.com/isa-group/RESTest/releases/download/v2.3.0/restest-2.3.0.tgz"
-  sha256 "a696b2b5c97f8fb14ecd3b3f549b6a43c51bf7dce2e2f3bfc17e7354dc016100"
+  url "https://github.com/isa-group/RESTest/releases/download/v2.4.0/restest-2.4.0.tgz"
+  sha256 "a66fcb055a73efa7c43780f07776b817dccdcfcf2058bb02d2c238fbd5f8e6ef"
   license "Apache-2.0"
 
   depends_on "openjdk@21"
